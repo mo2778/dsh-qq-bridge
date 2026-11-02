@@ -1,0 +1,4 @@
+node_modules/
+*.bak*
+package.json.broken
+.DS_Store
